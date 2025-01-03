@@ -30,10 +30,26 @@ The user can also use a lifeline to reduce the number of choices available in ce
 3. Open the project in your favorite IDE (e.g., IntelliJ IDEA, Eclipse).<br>
 4. Run the Login.java file to start the application.<br>
 ## Steps
-* <b>Login Screen:</b> The user enters their name to start.
-* <b>Rules Screen:</b> Shows the rules of the quiz.
-* <b>Quiz Screen:</b> The user answers 10 multiple-choice questions with a timer.
-* <b>Score Screen:</b> Displays the score after the quiz ends.
+* <b>Login Screen:</b> The user enters their name to start.<br>
+
+![image](https://github.com/user-attachments/assets/4cfd98f1-e65e-4b72-aaa7-eebdca95cc63)
+
+* <b>Rules Screen:</b> Shows the rules of the quiz.<br>
+
+![image](https://github.com/user-attachments/assets/0b39e744-c273-40a5-8a69-0af4a73ec5dd)
+
+* <b>Quiz Screen:</b> The user answers 10 multiple-choice questions with a timer.<br>
+
+![image](https://github.com/user-attachments/assets/69def44f-59b9-46ff-a18b-eb41a2544a09)
+
+* You may also use the <b>50-50 lifeline</b> here<br>
+
+![image](https://github.com/user-attachments/assets/42aed235-1dbd-4ebd-9813-745c5e4adfc5)
+
+* <b>Score Screen:</b> Displays the score after the quiz ends.<br>
+
+![image](https://github.com/user-attachments/assets/c15d1c11-4be2-4b44-9129-350d3ee8dde1)
+
 ## Code Structure and Explanation
 ### Login.java
 * <b>Components:</b> JTextField, JLabel, JButton.
